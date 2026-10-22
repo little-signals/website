@@ -47,7 +47,7 @@ summary{cursor:pointer;font-weight:700}details p{margin:10px 0 0;color:var(--mut
 .btn.sm{padding:8px 14px;font-size:14px;border-radius:10px}
 nav.top a.btn{color:var(--accent-ink)}nav.top a.btn.ghost{color:var(--ink)}nav.top{align-items:center}
 .btn.gold{background:var(--sun);border-color:var(--sun);color:#3A2A05}
-.hero2{display:grid;grid-template-columns:1.1fr .9fr;gap:40px;align-items:center;padding:56px 0 30px}
+.hero2{display:grid;grid-template-columns:1.1fr .9fr;gap:40px;align-items:start;padding:56px 0 30px}
 .hero2 h1{max-width:none}
 .cta-row{display:flex;flex-wrap:wrap;gap:10px;margin:4px 0 18px}
 .ticks{list-style:none;padding:0;margin:0;display:grid;gap:8px}
